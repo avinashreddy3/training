@@ -1,0 +1,51 @@
+.main {
+    background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg);
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.headings {
+    font-family: 'Tangerine', serif;
+    display: inline-block;
+    color: red;
+}
+
+.headings h1 {
+    background-color: #ccccff;
+}
+
+.headings h2 {
+    background-color: #9999ff;
+}
+
+.headings h3 {
+    background-color: #4d4dff;
+}
+
+.paras {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 4px 4px 4px #aaa;
+    font-style: italic;
+}
+
+.para1 {
+    font-family: 'Impact';
+    color: whitesmoke;
+    font-size: 25px;
+}
+
+.para2{
+    font-family: 'Verdana';
+    color: red;
+    font-size: 30px;
+}
+.para3{
+    font-family: 'Times New Roman';
+    color: blue;
+    font-size: 35px;
+}
+.para4{
+    font-family: Georgia;
+    font-size: 40px;
+}
